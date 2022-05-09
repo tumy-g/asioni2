@@ -1,0 +1,3 @@
+C:\Users\tomih\source\repos\texttexet\Debug\texttexet.exe
+C:\Users\tomih\OneDrive\ドキュメント\C++\repos\texttexet\Debug\texttexet.exe
+C:\Users\tomih\OneDrive\ドキュメント\C++\ReAsioni\Debug\texttexet.exe

@@ -1,0 +1,8 @@
+ro-maji
+
+hisasiburino github muzukasii
+:wq
+:wq!
+i
+:wq!
+
